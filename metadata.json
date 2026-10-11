@@ -1,0 +1,6 @@
+{
+  "name": "Research Journal Management System",
+  "description": "An academic publishing platform for authors, editors, and reviewers featuring paper submission, peer review, plagiarism detection, revision tracking, and MongoDB document database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
